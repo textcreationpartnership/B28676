@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable the knights, citizens and burgesses in Parliament assembled. The humble proposal of Lewis Rawlins, whether the restraining of retailers of beer and ale within the kingdome of England and Dominion of Wales from brewing, may not only prove profitable to the crown, but be expedient; upon due consideration of subsequent reasons.</title>
+            <author>Rawlins, Lewis.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28676</idno><idno type="EEBO-CITATION">99887460</idno>
+  <idno type="VID">190408</idno>
+  <idno type="EEBO-PROQUEST">2240894883</idno>
+  
+            <idno type="STC">Wing R364A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[2]</idno>
+            <idno type="STC">ESTC R227681</idno>
+            <idno type="PROQUEST">ocm99887460</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887460e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190408)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable the knights, citizens and burgesses in Parliament assembled. The humble proposal of Lewis Rawlins, whether the restraining of retailers of beer and ale within the kingdome of England and Dominion of Wales from brewing, may not only prove profitable to the crown, but be expedient; upon due consideration of subsequent reasons.</title>
+                  <author>Rawlins, Lewis.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Beer --  Commerce --  England --  Early works to 1800.</term>
+               <term type="topical_term">Beer --  Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190408:1"/>
+            <head>To the Right Honourable the Knights, Citizens and Burgesses in Parliament Assembled.</head>
+            <head type="sub">The humble Proposal of <hi>Lewis Rawlins,</hi> Whether the Restraining of Retailers of Beer and Ale within the Kingdome of <hi>England</hi> and Dominion of <hi>Wales</hi> from Brewing, may not only prove profitable to the Crown, but be expedient; upon due considerati<g ref="char:EOLhyphen"/>on of subsequent Reasons.</head>
+            <p n="1">1. BEcause it will supply his Majesties Exchequer in present with three hundred thousand pounds of lawful money or thereabouts; without the least trouble <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the King, or Kingdome, to which Sum the present Farmers of the Excise can make no claim.</p>
+            <p n="2">II. It will advance his Majesties Annual Revenue in the Excise of Beer and Ale for the fu<g ref="char:EOLhyphen"/>ture, and that considerably.</p>
+            <p n="3">III. It will save his Majestie near 30000 <hi>per annum,</hi> which hath hitherto been dis<g ref="char:EOLhyphen"/>bursed out of that part of his Revenues in contracting the number of Officers which at<g ref="char:EOLhyphen"/>tend that duty.</p>
+            <p n="4">IV. It will obviate that general Fraud which is practised by these brewing Retailers, to the detriment of his Majestie some thousands yearly.</p>
+            <p n="5">V. Hereby the common Brewer will receive encouragement from his encrease of Trade.</p>
+            <p n="6">VI. No damage can hereby accrue to the Farmers of the Excise, for they still enjoy their contract: The consumption of Beer and Ale will not be lessened by reducing the Brew<g ref="char:EOLhyphen"/>ing only of such Exciseable Liquors to the common Brewer, whilst the Victuallers, In<g ref="char:EOLhyphen"/>holders and the like, retail as great quantities as formerly, which in short, is but for Country Retailers to conform to the Example of the City of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>This Proposition may perhaps be excepted against by the Commissioners of the Excise, whose andor in the Kings business is hardly justified by the ensuing Narrative.</hi>
+            </p>
+            <p>The Propounder <hi>L.R.</hi> Gager in the year 1573. did exhibit as many Informations in the Excise office against <hi>W.C.</hi> a common Brewer in <hi>London,</hi> as the forfeitures thereupon amoun<g ref="char:EOLhyphen"/>ted to above 2000 l. some of those were heard by the Commissioners, and <hi>W.C.</hi> the offen<g ref="char:EOLhyphen"/>der thereupon comdemned in the sum of 340 l. or thereabouts.</p>
+            <p>The Prosecutor continued solliciting the Commissiioners by Petitions, and otherwise during the space of six Moneths, to hear and determine the remaining Propositions, upon which, the said <hi>W.C.</hi> (if Justice had accordingly been done) must as inevitably have been pronounced guilty, as he was upon those which were tryed.</p>
+            <p>Whilest Justice was thus delayed. <hi>W.C.</hi> makes his Address to Sir <hi>William Bucknall</hi> and other Farmers of the Excise, and with the payment of 200 <hi>l.</hi> or such like sum to them con<g ref="char:EOLhyphen"/>tracts to purchase his peace, and excuse his crime.</p>
+            <p>At this Contract <hi>Robert Huntingdon</hi> and <hi>Richard Kingdon</hi> Esquirs, two of the Com<g ref="char:EOLhyphen"/>missioners connive, and from that day hitherto, the prosecutor could not by any means be admitted to make good the charge against the said <hi>W.C.</hi> a practise infinitely tending to the prejudice of the Kings interest, and contrary to the Act of Parliament in that case made and provided, which gives one moyety of the Fines to the Informer, whereof the Infor<g ref="char:EOLhyphen"/>mer <hi>L.R.</hi> hath not as yet received one penny.</p>
+            <p>Hereupon the Prosecutor being in effect denyed Justice by the Commissioners, humbly acquaints his Majesty by Petition with his greivance, who gratiously referred the exami<g ref="char:EOLhyphen"/>nation of the matter to the present Lord High Treasurer, of which so soon as the afore<g ref="char:EOLhyphen"/>named Comissioners had notice, they and the Farmers without any other cause dismissed the said <hi>L.R.</hi> out of his office of Gager, of which injury the Propounder justly com<g ref="char:EOLhyphen"/>plains, and prays upon the whole matter Redress, as the wisedom of Parliament shall judge meet.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
